@@ -27,3 +27,5 @@ def add_expenses():
         else:
             print(" ")
             print("Invalid Input !!!")
+
+        print(" ")
